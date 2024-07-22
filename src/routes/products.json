@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "title": "Juego PS4",
+    "description": "Multijugador Online",
+    "code": "ABC123",
+    "price": 100,
+    "status": true,
+    "stock": 50,
+    "category": "Category1",
+    "thumbnails": []
+  }
+]
